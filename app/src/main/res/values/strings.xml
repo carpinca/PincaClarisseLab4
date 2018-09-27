@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity Life Cycle</string>
+    <string name="back">BACK</string>
+    <string name="location">Location: 1676 Piy Margal St, Manila, PH</string>
+    <string name="next">NEXT</string>
+    <string name="distance">Distance from UST: 0.6 km from UST</string>
+    <string name="brinner">BRINNER</string>
+    <string name="todo">TODO</string>
+</resources>
